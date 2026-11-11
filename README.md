@@ -2,11 +2,11 @@
 
 [![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sh20raj.codeseek-shade?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=sh20raj.codeseek-shade)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/sh20raj.codeseek-shade?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=sh20raj.codeseek-shade)
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2FCodeSeek&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2FCodeSeek)
-[![GitHub stars](https://img.shields.io/github/stars/SH20RAJ/CodeSeek?style=flat-square)](https://github.com/SH20RAJ/CodeSeek/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/SH20RAJ/CodeSeek?style=flat-square)](https://github.com/SH20RAJ/CodeSeek/network)
-[![GitHub issues](https://img.shields.io/github/issues/SH20RAJ/CodeSeek?style=flat-square)](https://github.com/SH20RAJ/CodeSeek/issues)
-[![GitHub license](https://img.shields.io/github/license/SH20RAJ/CodeSeek?style=flat-square)](https://github.com/SH20RAJ/CodeSeek/blob/main/LICENSE)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fplaylikeboy%2FCodeSeek&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fplaylikeboy%2FCodeSeek)
+[![GitHub stars](https://img.shields.io/github/stars/playlikeboy/CodeSeek?style=flat-square)](https://github.com/playlikeboy/CodeSeek/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/playlikeboy/CodeSeek?style=flat-square)](https://github.com/playlikeboy/CodeSeek/network)
+[![GitHub issues](https://img.shields.io/github/issues/playlikeboy/CodeSeek?style=flat-square)](https://github.com/playlikeboy/CodeSeek/issues)
+[![GitHub license](https://img.shields.io/github/license/playlikeboy/CodeSeek?style=flat-square)](https://github.com/playlikeboy/CodeSeek/blob/main/LICENSE)
 
 **CodeSeek** is a powerful AI-powered coding assistant for VS Code that leverages DeepSeek's advanced AI models to supercharge your coding workflow. Whether you need intelligent code completions, interactive chat assistance, or automatic documentation generation, CodeSeek helps you write better code faster and with less effort.
 
@@ -157,13 +157,13 @@ We're constantly improving CodeSeek! Here's what's coming next:
 - 🔥 **Multi-Model Support**: Choose between different AI models for different tasks
 - 🌐 **Multilingual Support**: Get assistance in multiple programming languages
 
-Have a feature request? [Open an issue](https://github.com/SH20RAJ/CodeSeek/issues/new) on GitHub!
+Have a feature request? [Open an issue](https://github.com/playlikeboy/CodeSeek/issues/new) on GitHub!
 
 ## License 📄
 
 MIT License - See [LICENSE](LICENSE) for details.
 
-View on GitHub: [https://github.com/SH20RAJ/CodeSeek](https://github.com/SH20RAJ/CodeSeek)
+View on GitHub: [https://github.com/playlikeboy/CodeSeek](https://github.com/playlikeboy/CodeSeek)
 
 ---
 
